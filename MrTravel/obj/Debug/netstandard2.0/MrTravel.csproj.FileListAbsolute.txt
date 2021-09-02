@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\MrTravel\MrTravel\bin\Debug\netstandard2.0\MrTravel.deps.json
+C:\Users\Adam\source\repos\MrTravel\MrTravel\bin\Debug\netstandard2.0\MrTravel.dll
+C:\Users\Adam\source\repos\MrTravel\MrTravel\bin\Debug\netstandard2.0\ref\MrTravel.dll
+C:\Users\Adam\source\repos\MrTravel\MrTravel\bin\Debug\netstandard2.0\MrTravel.pdb
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\MrTravel.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\MrTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\MrTravel.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\MrTravel.AssemblyInfo.cs
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\MrTravel.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\MrTravel.dll
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\ref\MrTravel.dll
+C:\Users\Adam\source\repos\MrTravel\MrTravel\obj\Debug\netstandard2.0\MrTravel.pdb

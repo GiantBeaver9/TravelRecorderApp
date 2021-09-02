@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MrTravel.MainPage">
+
+    <StackLayout Margin="15"
+                 VerticalOptions="Center">
+        <Entry x:Name="Email"
+               Placeholder="Enter username/email here"
+               Keyboard="Email"/>
+        <Entry x:Name="Password"
+               IsPassword="True" 
+               Placeholder="*********"/>
+        <Button x:Name="LoginButtonMain" 
+                Text="Login"
+                BackgroundColor="#552255"
+                TextColor="White"
+                Clicked="LoginButtonClicked"/>
+    </StackLayout>
+
+</ContentPage>
